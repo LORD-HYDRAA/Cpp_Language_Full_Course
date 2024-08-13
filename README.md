@@ -1,4 +1,4 @@
-# C Language Full Course 
+# C++ Language Full Course 
 
 Welcome to the **C++ Language Full Course** repository! This comprehensive course is designed to provide you with a thorough understanding of the C++ programming language, from basic concepts to advanced topics. Whether you're new to programming or looking to deepen your knowledge of C++, this course has you covered.
 
